@@ -1,0 +1,11 @@
+c:\users\tasos\documents\visual studio 2015\Projects\AtomikhErgasia1\AtomikhErgasia1\bin\Debug\AtomikhErgasia1.exe.config
+c:\users\tasos\documents\visual studio 2015\Projects\AtomikhErgasia1\AtomikhErgasia1\bin\Debug\AtomikhErgasia1.exe
+c:\users\tasos\documents\visual studio 2015\Projects\AtomikhErgasia1\AtomikhErgasia1\bin\Debug\AtomikhErgasia1.pdb
+c:\users\tasos\documents\visual studio 2015\Projects\AtomikhErgasia1\AtomikhErgasia1\obj\Debug\AtomikhErgasia1.csprojResolveAssemblyReference.cache
+c:\users\tasos\documents\visual studio 2015\Projects\AtomikhErgasia1\AtomikhErgasia1\obj\Debug\AtomikhErgasia1.Form1.resources
+c:\users\tasos\documents\visual studio 2015\Projects\AtomikhErgasia1\AtomikhErgasia1\obj\Debug\AtomikhErgasia1.Properties.Resources.resources
+c:\users\tasos\documents\visual studio 2015\Projects\AtomikhErgasia1\AtomikhErgasia1\obj\Debug\AtomikhErgasia1.csproj.GenerateResource.Cache
+c:\users\tasos\documents\visual studio 2015\Projects\AtomikhErgasia1\AtomikhErgasia1\obj\Debug\AtomikhErgasia1.exe
+c:\users\tasos\documents\visual studio 2015\Projects\AtomikhErgasia1\AtomikhErgasia1\obj\Debug\AtomikhErgasia1.pdb
+C:\Users\Tasos\Documents\Visual Studio 2015\Projects\AtomikhErgasia1\AtomikhErgasia1\obj\Debug\AtomikhErgasia1.Form2.resources
+C:\Users\Tasos\Documents\Visual Studio 2015\Projects\AtomikhErgasia1\AtomikhErgasia1\obj\Debug\AtomikhErgasia1.Form3.resources
